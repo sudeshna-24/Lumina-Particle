@@ -19,7 +19,7 @@
 ## 📸 Preview
 
 <div align="center">
-  <img src="assets/dashboard-saturn-rings.png" alt="Lumina Particle Forge interface showing the Saturn Rings particle preset with live tension and gesture HUD" width="850"/>
+  <img src="assets/Screenshot 2026-06-19 120141.png" alt="Lumina Particle Forge interface showing the Saturn Rings particle preset with live tension and gesture HUD" width="850"/>
   <p><em>The Saturn Rings preset in Intercessor (manual slider) mode, with live FPS, particle count, and tension telemetry.</em></p>
 </div>
 
