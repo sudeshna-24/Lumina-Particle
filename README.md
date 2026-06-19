@@ -172,6 +172,6 @@ This project is licensed under the MIT License.
 
 <div align="center">
 
-Built with ❤️ by **[Sudeshna Roy](https://github.com/sudeshna-24)**
+Built with ❤️ by **[Sudeshna Dash](https://github.com/sudeshna-24)**
 
 </div>
