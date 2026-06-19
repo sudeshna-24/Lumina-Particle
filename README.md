@@ -18,13 +18,10 @@
 
 ## 📸 Preview
 
-> 🖼️ *Add a screenshot or screen recording of the live app here once you have one — see the note at the bottom of this README for exactly how.*
-
-```md
 <div align="center">
-  <img src="assets/.aistudio/your-screenshot.png" alt="Lumina Particle Forge interface" width="850"/>
+  <img src="assets/screenshots/dashboard-saturn-rings.png" alt="Lumina Particle Forge interface showing the Saturn Rings particle preset with live tension and gesture HUD" width="850"/>
+  <p><em>The Saturn Rings preset in Intercessor (manual slider) mode, with live FPS, particle count, and tension telemetry.</em></p>
 </div>
-```
 
 ---
 
@@ -68,7 +65,9 @@ No mouse required: spread your palms apart to scale a structure up, bring them t
 ```
 Lumina-Particle/
 ├── assets/
-│   └── .aistudio/                 # Local AI Studio assets (git-ignored — see note below)
+│   ├── .aistudio/                 # Local AI Studio scratch assets (git-ignored)
+│   └── screenshots/               # README preview images
+│       └── dashboard-saturn-rings.png
 ├── src/
 │   ├── components/
 │   │   ├── HandWebcam.tsx         # Webcam capture + MediaPipe hand landmark tracking
